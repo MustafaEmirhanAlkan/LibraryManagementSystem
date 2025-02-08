@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AdminLogin
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Launch\ the\ application.\r\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=AdminLogin()
+comment3.text=\r\n\ Create\ the\ frame.\r\n
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

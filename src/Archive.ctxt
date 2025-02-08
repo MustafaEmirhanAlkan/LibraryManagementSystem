@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Archive
+comment1.params=bookName\ exchangeTime
+comment1.target=Archive(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getCompanyName()
+comment3.params=
+comment3.target=double\ getExchangePrice()
+comment4.params=companyName
+comment4.target=void\ setCompanyName(java.lang.String)
+comment5.params=exchangePrice
+comment5.target=void\ setExchangePrice(double)
+numComments=6
